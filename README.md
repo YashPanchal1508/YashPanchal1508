@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yash Panchal</h1>
 <h3 align="center">A passionate Software  Engineer from India</h3>
 
-- 🔭 I’m currently working on **Ecommerce website**
+- 🔭 I’m currently learning Next.js and TypeScript.
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently seeking opportunity in Web Development
 
 - 📫 How to reach me **yash.panchal1508@gmail.com**
 
